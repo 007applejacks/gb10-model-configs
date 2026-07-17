@@ -1,6 +1,6 @@
 # gb10-model-configs
 
-Model serve recipes for the **gb10 Model Swapper** (see
+Model serve recipes for the **DGX Spark Model Swapper** (see
 [`007applejacks/dgx-spark-model-swapper`](https://github.com/007applejacks/dgx-spark-model-swapper)).
 
 **gb10 is the system of record for this repo.** The swap-ui reads these recipes, and promotes
